@@ -1,0 +1,102 @@
+.address p{
+    letter-spacing: 0.16px;
+    color: #d5d5d5;
+    text-align: center;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.contactPageLink{
+    text-decoration: none;
+    letter-spacing: 0.16px;
+    color: #d5d5d5;
+    text-align: center;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.contactPageBg{
+    background-image: url('../images/contactBackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.catlogPageLink{
+    text-decoration: none;
+    letter-spacing: 0.16px;
+    color: #ed3237;
+    text-align: center;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.catlogPageBg{
+    background-image: url('../images/catlogPageBackground1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* .pagination .page-item .page-link {
+    color: #6c757d;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #ffffff;
+} */
+
+.multi-item-carousel{
+    .carousel-inner{
+      > .item{
+        transition: 500ms ease-in-out left;
+      }
+      .active{
+        &.left{
+          left:-33%;
+        }
+        &.right{
+          left:33%;
+        }
+      }
+      .next{
+        left: 33%;
+      }
+      .prev{
+        left: -33%;
+      }
+      @media all and (transform-3d), (-webkit-transform-3d) {
+        > .item{
+          // use your favourite prefixer here
+          transition: 500ms ease-in-out left;
+          transition: 500ms ease-in-out all;
+          backface-visibility: visible;
+          transform: none!important;
+        }
+      }
+    }
+    .carouse-control{
+      &.left, &.right{
+        background-image: none;
+      }
+    }
+  }
+
+  .swiper-pagination-bullet {
+    background-color: #ed3237; /* Change this to the color you want */
+    }
+
+  @media only screen and (max-width: 767px) {
+    .zoomWrapper.single-zoom {
+        pointer-events: none;
+    }
+  }
+
+  .redText{
+    color: #ed3237;
+  }
+
+  .textRight{
+    text-align: end;
+  }
+}

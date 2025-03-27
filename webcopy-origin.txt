@@ -1,0 +1,2280 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\npm\bootstrap-icons@1.11.3\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\npm\pannellum@2.5.6\build\pannellum.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\npm\pannellum@2.5.6\build\pannellum.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100..900&display=swap
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjZtU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/encodesans/v19/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkZtU.ttf
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\s\encodesans\v19\LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkZtU.ttf
+Content Type: font/ttf
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Arctonic.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Arctonic.png
+Content Type: image/png
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Arctonic_c.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Arctonic_c.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Elegora.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Elegora.png
+Content Type: image/png
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Elegora_c.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Elegora_c.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Nerolam.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Nerolam.png
+Content Type: image/png
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Nerolam_c.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Nerolam_c.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Pixel Mica.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Pixel Mica.png
+Content Type: image/png
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Pixel Mica_c.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Pixel Mica_c.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Sonova Laminates.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Sonova Laminates.png
+Content Type: image/png
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Sonova Laminates_c.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Sonova Laminates_c.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Steeloak.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Steeloak.png
+Content Type: image/png
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Steeloak_c.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Steeloak_c.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Suntouch.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Suntouch.png
+Content Type: image/png
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/brandImages/Suntouch_c.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brandImages\Suntouch_c.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/catlogImages/Arctonic.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\catlogImages\Arctonic.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/catlogImages/Nerolam.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\catlogImages\Nerolam.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/catlogImages/Pixel Mica.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\catlogImages\Pixel Mica.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/catlogImages/Sonova Laminates.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\catlogImages\Sonova Laminates.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/catlogImages/Steeloak Laminates.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\catlogImages\Steeloak Laminates.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/catlogImages/Suntouch.jpeg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\catlogImages\Suntouch.jpeg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ABALONE WHITE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ABALONE WHITE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ABALONE WHITE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ABALONE WHITE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ACACIA BARK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ACACIA BARK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ACACIA BARK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ACACIA BARK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AEGEAN BLUE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AEGEAN BLUE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AEGEAN BLUE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AEGEAN BLUE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AFRICAN MASK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AFRICAN MASK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AFRICAN MASK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AFRICAN MASK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AFRICAN YEW_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AFRICAN YEW_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AFRICAN YEW_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AFRICAN YEW_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ANCHOR GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ANCHOR GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ANCHOR GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ANCHOR GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ARABIC TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ARABIC TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ARABIC TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ARABIC TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ASIAN PINE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ASIAN PINE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ASIAN PINE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ASIAN PINE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ASIATIC CARRARA_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ASIATIC CARRARA_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ASIATIC CARRARA_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ASIATIC CARRARA_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AUSTRALIAN YEW_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AUSTRALIAN YEW_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/AUSTRALIAN YEW_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\AUSTRALIAN YEW_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/BLANCO_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\BLANCO_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/BLANCO_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\BLANCO_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/BUNRATTY OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\BUNRATTY OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/BUNRATTY OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\BUNRATTY OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/BUTTERSCOTCH CALACATTA_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\BUTTERSCOTCH CALACATTA_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/BUTTERSCOTCH CALACATTA_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\BUTTERSCOTCH CALACATTA_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CACAO TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CACAO TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CACAO TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CACAO TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CAROB BROWN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CAROB BROWN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CAROB BROWN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CAROB BROWN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CEDAR BROWN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CEDAR BROWN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CEDAR BROWN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CEDAR BROWN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CEMENTO GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CEMENTO GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CEMENTO GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CEMENTO GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CEMENTO WHITE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CEMENTO WHITE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CEMENTO WHITE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CEMENTO WHITE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CHARCOAL GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CHARCOAL GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CHARCOAL GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CHARCOAL GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CINNAMON BROWN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CINNAMON BROWN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/CINNAMON BROWN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\CINNAMON BROWN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/COCONUT WHITE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\COCONUT WHITE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/COCONUT WHITE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\COCONUT WHITE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/COSMOS_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\COSMOS_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/COSMOS_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\COSMOS_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DARK CHOCO_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DARK CHOCO_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DARK CHOCO_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DARK CHOCO_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DARK OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DARK OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DARK OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DARK OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DEEP CALACATTA_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DEEP CALACATTA_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DEEP CALACATTA_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DEEP CALACATTA_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DOLPHIN GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DOLPHIN GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DOLPHIN GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DOLPHIN GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DYNAMIC VENETINO_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DYNAMIC VENETINO_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/DYNAMIC VENETINO_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\DYNAMIC VENETINO_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/EBONY YEW_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\EBONY YEW_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/EBONY YEW_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\EBONY YEW_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ESPRESSO OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ESPRESSO OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ESPRESSO OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ESPRESSO OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/FOLK BLUE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\FOLK BLUE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/FOLK BLUE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\FOLK BLUE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/FOSSIL GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\FOSSIL GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/FOSSIL GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\FOSSIL GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/FRENCH CHOCO_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\FRENCH CHOCO_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/FRENCH CHOCO_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\FRENCH CHOCO_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/GLOWING OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\GLOWING OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/GLOWING OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\GLOWING OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/GOLDEN NUTLIGHT_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\GOLDEN NUTLIGHT_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/GOLDEN NUTLIGHT_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\GOLDEN NUTLIGHT_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/GRAPHITE GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\GRAPHITE GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/GRAPHITE GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\GRAPHITE GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HARDENED BLUE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HARDENED BLUE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HARDENED BLUE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HARDENED BLUE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HASTING SANDAL_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HASTING SANDAL_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HASTING SANDAL_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HASTING SANDAL_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HICKORY PIGNUT_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HICKORY PIGNUT_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HICKORY PIGNUT_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HICKORY PIGNUT_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HIMALAYAN OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HIMALAYAN OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HIMALAYAN OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HIMALAYAN OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HONEY LOCUST_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HONEY LOCUST_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/HONEY LOCUST_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\HONEY LOCUST_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ISTANBUL WALNUT_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ISTANBUL WALNUT_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ISTANBUL WALNUT_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ISTANBUL WALNUT_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/JACKSON HICKORY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\JACKSON HICKORY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/JACKSON HICKORY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\JACKSON HICKORY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/JAERSEY BEECH_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\JAERSEY BEECH_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/JAERSEY BEECH_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\JAERSEY BEECH_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/KHAKI BROWN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\KHAKI BROWN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/KHAKI BROWN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\KHAKI BROWN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/KOREAN OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\KOREAN OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/KOREAN OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\KOREAN OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/KRONBERG TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\KRONBERG TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/KRONBERG TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\KRONBERG TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/LUSH YEW_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\LUSH YEW_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/LUSH YEW_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\LUSH YEW_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MAHOGANY RED_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MAHOGANY RED_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MAHOGANY RED_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MAHOGANY RED_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MALAYSIAN OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MALAYSIAN OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MALAYSIAN OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MALAYSIAN OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MEDIUM ALDER_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MEDIUM ALDER_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MEDIUM ALDER_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MEDIUM ALDER_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MEDIUM PERWOOD_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MEDIUM PERWOOD_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MEDIUM PERWOOD_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MEDIUM PERWOOD_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MINK GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MINK GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MINK GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MINK GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MOROCCAN OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MOROCCAN OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MOROCCAN OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MOROCCAN OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MOSS GREEN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MOSS GREEN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MOSS GREEN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MOSS GREEN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MUSTARD OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MUSTARD OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/MUSTARD OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\MUSTARD OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/NATURAL CALICO_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\NATURAL CALICO_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/NATURAL CALICO_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\NATURAL CALICO_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/NATURAL TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\NATURAL TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/NATURAL TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\NATURAL TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/NORDIC OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\NORDIC OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/NORDIC OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\NORDIC OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/OFF WHITE CARRARA_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\OFF WHITE CARRARA_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/OFF WHITE CARRARA_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\OFF WHITE CARRARA_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ONYX OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ONYX OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ONYX OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ONYX OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PEANUT PINE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PEANUT PINE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PEANUT PINE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PEANUT PINE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PEARL WHITE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PEARL WHITE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PEARL WHITE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PEARL WHITE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PECAN BARK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PECAN BARK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PECAN BARK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PECAN BARK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PERFECT BEIGE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PERFECT BEIGE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PERFECT BEIGE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PERFECT BEIGE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PLATEAU APFELBAUM_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PLATEAU APFELBAUM_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/PLATEAU APFELBAUM_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\PLATEAU APFELBAUM_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/POWDER PINK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\POWDER PINK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/POWDER PINK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\POWDER PINK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/RHINO GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\RHINO GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/RHINO GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\RHINO GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ROSE GOLD_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ROSE GOLD_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ROSE GOLD_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ROSE GOLD_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ROSEWOOD_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ROSEWOOD_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/ROSEWOOD_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\ROSEWOOD_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/RUSSIAN OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\RUSSIAN OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/RUSSIAN OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\RUSSIAN OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SHARK GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SHARK GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SHARK GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SHARK GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SILVER VENETINO_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SILVER VENETINO_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SILVER VENETINO_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SILVER VENETINO_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SNOW WHITE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SNOW WHITE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SNOW WHITE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SNOW WHITE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SOBER GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SOBER GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SOBER GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SOBER GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SOFT CARRARA_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SOFT CARRARA_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SOFT CARRARA_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SOFT CARRARA_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SOFT TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SOFT TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SOFT TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SOFT TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPANISH WOOD CHERRY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPANISH WOOD CHERRY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPANISH WOOD CHERRY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPANISH WOOD CHERRY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPARKLING OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPARKLING OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPARKLING OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPARKLING OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPLENDID OAK_h.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPLENDID OAK_h.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPLENDID OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPLENDID OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPLENDID OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPLENDID OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPRUCE BLUE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPRUCE BLUE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SPRUCE BLUE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SPRUCE BLUE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/STEEL BLUE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\STEEL BLUE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/STEEL BLUE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\STEEL BLUE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/STEEL GREY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\STEEL GREY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/STEEL GREY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\STEEL GREY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/STRIPED OAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\STRIPED OAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/STRIPED OAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\STRIPED OAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SUMMER SKY_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SUMMER SKY_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SUMMER SKY_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SUMMER SKY_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SUNNY YEW_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SUNNY YEW_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SUNNY YEW_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SUNNY YEW_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SUNRISE TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SUNRISE TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/SUNRISE TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\SUNRISE TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TEMPERATE CALACATTA_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TEMPERATE CALACATTA_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TEMPERATE CALACATTA_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TEMPERATE CALACATTA_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TERRIFIC TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TERRIFIC TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TERRIFIC TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TERRIFIC TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TEXAS SADDLE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TEXAS SADDLE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TEXAS SADDLE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TEXAS SADDLE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/THICKET_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\THICKET_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/THICKET_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\THICKET_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TIMELESS CREAM_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TIMELESS CREAM_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TIMELESS CREAM_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TIMELESS CREAM_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TORTILLA BROWN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TORTILLA BROWN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TORTILLA BROWN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TORTILLA BROWN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TOUGH CALACATTA_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TOUGH CALACATTA_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/TOUGH CALACATTA_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\TOUGH CALACATTA_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/UMBER BROWN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\UMBER BROWN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/UMBER BROWN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\UMBER BROWN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/UNIFORM GREEN_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\UNIFORM GREEN_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/UNIFORM GREEN_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\UNIFORM GREEN_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/URBAN VENEER_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\URBAN VENEER_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/URBAN VENEER_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\URBAN VENEER_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/VENETIAN PINE_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\VENETIAN PINE_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/VENETIAN PINE_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\VENETIAN PINE_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/VIBRANT TEAK_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\VIBRANT TEAK_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/VIBRANT TEAK_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\VIBRANT TEAK_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/WOODLAND_p.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\WOODLAND_p.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productImages/WOODLAND_v.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productImages\WOODLAND_v.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/14_1730190265.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\14_1730190265.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/GC-06_1730188229.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\GC-06_1730188229.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/GC-16_1730188188.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\GC-16_1730188188.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/GC-24_1730188266.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\GC-24_1730188266.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/MMR-253_1730202028.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\MMR-253_1730202028.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/MMR-254_1730202081.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\MMR-254_1730202081.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/MMR-255_1730202118.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\MMR-255_1730202118.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/MMR251_1730201926.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\MMR251_1730201926.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/MMR252_1730201977.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\MMR252_1730201977.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P1-AM_1730190782.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P1-AM_1730190782.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P2-AM_1730190671.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P2-AM_1730190671.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P3-AM_1730190617.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P3-AM_1730190617.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P4-AM_1730190468.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P4-AM_1730190468.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P5-AM_1730188102.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P5-AM_1730188102.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P6-AM_1730188068.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P6-AM_1730188068.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P7-AM_1730188171.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P7-AM_1730188171.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/P8-AM_1730188016.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\P8-AM_1730188016.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-01_1730190223.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-01_1730190223.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-02_1730190138.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-02_1730190138.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/pc-02_1730190173.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\pc-02_1730190173.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/pc-04_1730190085.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\pc-04_1730190085.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-04_1730202617.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-04_1730202617.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/pc-05_1730189936.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\pc-05_1730189936.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-06_1730189889.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-06_1730189889.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-07_1730190469.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-07_1730190469.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-08_1730190436.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-08_1730190436.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-09_1730190389.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-09_1730190389.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-10_1730190577.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-10_1730190577.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-11_1730189913.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-11_1730189913.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-12_1730190546.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-12_1730190546.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-13_1730189999.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-13_1730189999.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-14_1730190557.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-14_1730190557.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-15_1730190157.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-15_1730190157.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-16_1730190119.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-16_1730190119.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-16_1730202726.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-16_1730202726.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-17_1730190083.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-17_1730190083.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-18_1730190291.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-18_1730190291.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-18_1730190510.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-18_1730190510.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-19_1730190257.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-19_1730190257.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-20_1730190213.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-20_1730190213.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-20_1730202569.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-20_1730202569.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-20_1730202764.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-20_1730202764.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/pc-21_1730190047.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\pc-21_1730190047.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-22_1730189975.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-22_1730189975.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/pc-23_1730190015.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\pc-23_1730190015.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-23_1730190400.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-23_1730190400.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-23_1730202525.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-23_1730202525.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-24_1730189842.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-24_1730189842.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-25_1730190045.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-25_1730190045.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/PC-25_1730190449.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\PC-25_1730190449.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-12_1730189275.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-12_1730189275.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-16_1730189400.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-16_1730189400.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-22_1722611200.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-22_1722611200.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-24_1730189677.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-24_1730189677.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-30_1730189357.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-30_1730189357.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-31_1722610093.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-31_1722610093.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-32_1722609924.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-32_1722609924.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-33_1730189562.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-33_1730189562.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-39_1730189633.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-39_1730189633.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-40_1730187845.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-40_1730187845.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-42_1730187582.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-42_1730187582.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-43_1730188119.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-43_1730188119.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-47_1730189709.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-47_1730189709.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-48_1730189470.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-48_1730189470.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-49_1730188020.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-49_1730188020.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-55_1722609711.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-55_1722609711.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-56_1722609516.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-56_1722609516.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-58_1722611040.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-58_1722611040.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-63_1730188070.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-63_1730188070.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-67_1730187939.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-67_1730187939.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-68_1730189759.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-68_1730189759.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-69_1722608518.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-69_1722608518.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-70_1730187715.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-70_1730187715.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-71_1730187679.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-71_1730187679.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-72_1730188153.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-72_1730188153.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-73_1730189599.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-73_1730189599.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-74_1730188189.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-74_1730188189.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-77_1722608079.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-77_1722608079.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-78_1722607537.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-78_1722607537.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-79_1722607577.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-79_1722607577.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-81_1722608311.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-81_1722608311.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-86_1730187746.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-86_1730187746.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-87_1722610399.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-87_1722610399.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-88_1722609144.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-88_1722609144.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-89_1722609338.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-89_1722609338.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-90_1730187881.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-90_1730187881.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-91_1730189503.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-91_1730189503.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-92_1730187782.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-92_1730187782.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-94_1730187900.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-94_1730187900.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/VT-95_1730189309.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\VT-95_1730189309.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-96_1730188224.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-96_1730188224.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/productTextureImages/vt-98_1730187788.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\productTextureImages\vt-98_1730187788.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/sliderImages/Slider Image 1_1721044402.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\sliderImages\Slider Image 1_1721044402.webp
+Content Type: image/webp
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/sliderImages/Slider Image 2_1721044432.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\sliderImages\Slider Image 2_1721044432.webp
+Content Type: image/webp
+
+Uri: https://suntouch.s3.ap-south-1.amazonaws.com/sliderImages/Slider Image 3_1721044457.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\sliderImages\Slider Image 3_1721044457.webp
+Content Type: image/webp
+
+Uri: https://suntouchlaminate.com/
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\index.htm
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/about
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\about.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ABALONE-WHITE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ABALONE-WHITE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ABALONE-WHITE-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ABALONE-WHITE-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ABALONE-WHITE-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ABALONE-WHITE-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ACACIA-BARK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ACACIA-BARK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/AEGEAN-BLUE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\AEGEAN-BLUE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/AEGEAN-BLUE-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\AEGEAN-BLUE-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/AFRICAN-MASK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\AFRICAN-MASK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/AFRICAN-YEW
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\AFRICAN-YEW.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ANCHOR-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ANCHOR-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ANCHOR-GREY-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ANCHOR-GREY-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ANCHOR-GREY-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ANCHOR-GREY-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ARABIC TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ARABIC TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ASIAN-PINE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ASIAN-PINE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ASIATIC-CARRARA
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ASIATIC-CARRARA.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/AUSTRALIAN-YEW
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\AUSTRALIAN-YEW.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/BLANCO
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\BLANCO.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/BUNRATTY-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\BUNRATTY-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/BUTTERSCOTCH-CALACATTA
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\BUTTERSCOTCH-CALACATTA.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CACAO-TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CACAO-TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CAROB-BROWN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CAROB-BROWN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CAROB-BROWN-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CAROB-BROWN-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CEDAR-BROWN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CEDAR-BROWN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CEMENTO-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CEMENTO-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CEMENTO-WHITE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CEMENTO-WHITE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CHARCOAL-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CHARCOAL-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CINNAMON-BROWN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CINNAMON-BROWN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/CINNAMON-BROWN-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\CINNAMON-BROWN-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/COCONUT-WHITE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\COCONUT-WHITE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/COCONUT-WHITE-GC
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\COCONUT-WHITE-GC.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/COCONUT-WHITE-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\COCONUT-WHITE-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/COSMOS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\COSMOS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/DARK-CHOCO
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\DARK-CHOCO.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/DARK-CHOCO-MR
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\DARK-CHOCO-MR.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/DARK-CHOCO-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\DARK-CHOCO-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/DARK-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\DARK-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/DEEP-CALACATTA
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\DEEP-CALACATTA.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/DOLPHIN-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\DOLPHIN-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/DYNAMIC-VENETINO
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\DYNAMIC-VENETINO.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/EBONY-YEW
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\EBONY-YEW.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ESPRESSO-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ESPRESSO-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/FOLK-BLUE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\FOLK-BLUE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/FOSSIL-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\FOSSIL-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/FOSSIL-GREY-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\FOSSIL-GREY-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/FOSSIL-GREY-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\FOSSIL-GREY-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/FRENCH-CHOCO
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\FRENCH-CHOCO.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/GLOWING-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\GLOWING-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/GOLDEN-NUTLIGHT
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\GOLDEN-NUTLIGHT.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/GRAPHITE-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\GRAPHITE-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/HARDENED-BLUE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\HARDENED-BLUE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/HASTING-SANDAL
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\HASTING-SANDAL.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/HICKORY-PIGNUT
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\HICKORY-PIGNUT.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/HIMALAYAN-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\HIMALAYAN-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/HONEY-LOCUST
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\HONEY-LOCUST.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ISTANBUL-WALNUT
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ISTANBUL-WALNUT.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/JACKSON-HICKORY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\JACKSON-HICKORY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/JAERSEY-BEECH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\JAERSEY-BEECH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/KHAKI-BROWN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\KHAKI-BROWN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/KHAKI-BROWN-GLOSSY CRYSTAL
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\KHAKI-BROWN-GLOSSY CRYSTAL.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/KHAKI-BROWN-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\KHAKI-BROWN-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/KOREAN-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\KOREAN-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/KRONBERG-TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\KRONBERG-TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/LUSH-YEW
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\LUSH-YEW.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MAHOGANY-RED
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MAHOGANY-RED.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MALAYSIAN-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MALAYSIAN-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MEDIUM-ALDER
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MEDIUM-ALDER.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MEDIUM-PERWOOD
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MEDIUM-PERWOOD.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MINK-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MINK-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MINK-GREY-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MINK-GREY-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MOROCCAN-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MOROCCAN-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MOSS-GREEN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MOSS-GREEN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/MUSTARD-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\MUSTARD-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/NATURAL-CALICO
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\NATURAL-CALICO.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/NATURAL-TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\NATURAL-TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/NORDIC-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\NORDIC-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/OFF-WHITE-CARRARA
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\OFF-WHITE-CARRARA.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ONYX-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ONYX-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/PEANUT-PINE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\PEANUT-PINE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/PEARL-WHITE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\PEARL-WHITE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/PECAN-BARK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\PECAN-BARK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/PERFECT-BEIGE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\PERFECT-BEIGE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/PLATEAU-APFELBAUM
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\PLATEAU-APFELBAUM.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/POWDER-PINK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\POWDER-PINK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/RHINO-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\RHINO-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ROSE-GOLD
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ROSE-GOLD.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ROSE-GOLD-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ROSE-GOLD-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ROSEWOOD
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ROSEWOOD.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/ROSEWOOD-MR
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\ROSEWOOD-MR.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/RUSSIAN-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\RUSSIAN-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SHARK-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SHARK-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SILVER-VENETINO
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SILVER-VENETINO.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SNOW-WHITE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SNOW-WHITE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SOBER-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SOBER-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SOFT-CARRARA
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SOFT-CARRARA.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SOFT-TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SOFT-TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SPANISH-WOOD-CHERRY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SPANISH-WOOD-CHERRY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SPARKLING-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SPARKLING-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SPLENDID-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SPLENDID-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SPRUCE-BLUE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SPRUCE-BLUE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SPRUCE-BLUE-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SPRUCE-BLUE-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/STEEL-BLUE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\STEEL-BLUE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/STEEL-GREY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\STEEL-GREY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/STEEL-GREY-GLOSSY CRYSTAL
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\STEEL-GREY-GLOSSY CRYSTAL.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/STEEL-GREY-MIRROR-HIGH-GLOSS
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\STEEL-GREY-MIRROR-HIGH-GLOSS.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/STRIPED-OAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\STRIPED-OAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SUMMER-SKY
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SUMMER-SKY.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SUNNY-YEW
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SUNNY-YEW.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/SUNRISE-TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\SUNRISE-TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/TEMPERATE-CALACATTA
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\TEMPERATE-CALACATTA.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/TERRIFIC-TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\TERRIFIC-TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/TEXAS-SADDLE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\TEXAS-SADDLE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/THICKET
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\THICKET.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/TIMELESS-CREAM
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\TIMELESS-CREAM.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/TORTILLA-BROWN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\TORTILLA-BROWN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/TOUGH-CALACATTA
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\TOUGH-CALACATTA.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/UMBER-BROWN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\UMBER-BROWN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/UMBER-BROWN-ZERO-SOFT-TOUCH
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\UMBER-BROWN-ZERO-SOFT-TOUCH.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/UNIFORM-GREEN
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\UNIFORM-GREEN.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/UNIFORM-GREEN-GLOSSYCRYSTAL
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\UNIFORM-GREEN-GLOSSYCRYSTAL.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/URBAN-VENEER
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\URBAN-VENEER.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/VENETIAN-PINE
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\VENETIAN-PINE.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/VIBRANT-TEAK
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\VIBRANT-TEAK.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic/category/texture/product/WOODLAND
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic\category\texture\product\WOODLAND.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=1
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-11.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=10
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-9.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=11
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-10.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=2
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-1.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=3
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-2.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=4
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-3.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=5
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-4.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=6
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-5.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=7
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-6.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=8
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-7.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Arctonic?page=9
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Arctonic-8.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Elegora
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Elegora.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Nerolam
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Nerolam.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Pixel-Mica
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Pixel-Mica.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Sonova
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Sonova.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/Steeloak
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\Steeloak.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/brand/SunTouch
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\brand\SunTouch.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/catalogue
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\catalogue.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/contact
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\contact.html
+Content Type: text/html
+
+Uri: https://suntouchlaminate.com/js/share.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\js\share.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/About Tajpuria_ Tajpuria.co.in_files/style.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\About Tajpuria_ Tajpuria.co.in_files\style.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/about.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\about.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/aos.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\aos.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/custom.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\custom.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/responsive.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\responsive.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/style.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\style.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/style.css?v=1.1
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\style-1.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/ab-img-1.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\ab-img-1.webp
+Content Type: 
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/ab-img-2.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\ab-img-2.webp
+Content Type: 
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/ab-img-3.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\ab-img-3.webp
+Content Type: 
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/ab-img-4.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\ab-img-4.webp
+Content Type: 
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/about-Page-1.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\about-Page-1.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/about-Page-2.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\about-Page-2.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/arctonic.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\arctonic.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/arrow-left-dark.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\arrow-left-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/arrow-left.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/arrow-right-2.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\arrow-right-2.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/arrow-right-dark.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\arrow-right-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/arrow-right-light.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\arrow-right-light.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/arrow-right.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/call-primary.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\call-primary.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/catelog.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\catelog.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/catlogPageBackground1.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\catlogPageBackground1.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/color-bar-bg.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\color-bar-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/contactBackground.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\contactBackground.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/exclusive-design.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\exclusive-design.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/facebook.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/favicon.ico
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/IAF.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\IAF.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/industry-expert.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\industry-expert.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/instagram.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/ISI.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\ISI.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/iso.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\iso.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/JAS-ANZ.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\JAS-ANZ.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/linkedin.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/location.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\location.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/logo.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\logo.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/mail.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/make-in-india.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\make-in-india.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/map.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\map.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/menu.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\menu.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/nerolam.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\nerolam.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/pic1.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\pic1.webp
+Content Type: 
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/pic2.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\pic2.webp
+Content Type: 
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/pic3.webp
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\pic3.webp
+Content Type: 
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/pinterest.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\pinterest.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/pixel-mica.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\pixel-mica.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/POWER.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\POWER.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/premium-features.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\premium-features.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/search.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\search.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/sonova.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\sonova.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/steeloak.png
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\steeloak.png
+Content Type: image/png
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/whatsapp.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/why-us-bg.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\why-us-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/Wicklow-Oak_website.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\Wicklow-Oak_website.jpg
+Content Type: image/jpeg
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/images/wide-range-varieties.svg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\images\wide-range-varieties.svg
+Content Type: image/svg+xml
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/about/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\about\jquery.fancybox.min.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/about/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\about\jquery.stellar.min.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/about/parallax-element.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\about\parallax-element.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/about/scripts.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\about\scripts.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/custom.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\custom.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\jquery-3.7.1.min.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://suntouchlaminate.com/suntouch-laminates/vender/swiper/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\suntouch-laminates\vender\swiper\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://www.crazelam.com/assets/images/abtCert.jpg
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\assets\images\abtCert.jpg
+Content Type: image/jpeg
+
+Uri: https://www.crazelam.com/assets/js/fancybox/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\assets\js\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://www.crazelam.com/assets/js/jquery.cycle2.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\assets\js\jquery.cycle2.min.js
+Content Type: application/javascript
+
+Uri: https://www.crazelam.com/assets/js/jquery.sidr.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\assets\js\jquery.sidr.min.js
+Content Type: application/javascript
+
+Uri: https://www.crazelam.com/assets/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\assets\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://www.crazelam.com/assets/js/parallax-element.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\assets\js\parallax-element.js
+Content Type: application/javascript
+
+Uri: https://www.crazelam.com/assets/js/scripts.js
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.mannington.com/_next/image?url=https:%2F%2Fimages.ctfassets.net%2Fr69d9lchftro%2F2gzAVNrIQMGJT7em7U6yTw%2F25a2486a8fde95226c5852d3cbf4c1e9%2F28632-rsh-heirloom-cedar-hero-1920x1066.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\_next\28632-rsh-heirloom-cedar-hero-1920x1066.jpg
+Content Type: image/jpeg
+
