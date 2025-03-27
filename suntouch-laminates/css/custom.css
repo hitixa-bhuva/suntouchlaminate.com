@@ -66,8 +66,7 @@
         left: -33%;
       }
       @media all and (transform-3d), (-webkit-transform-3d) {
-        > .item{
-          // use your favourite prefixer here
+        .item{
           transition: 500ms ease-in-out left;
           transition: 500ms ease-in-out all;
           backface-visibility: visible;
@@ -99,4 +98,86 @@
   .textRight{
     text-align: end;
   }
+
+  @media screen and (max-width: 1024px) {
+    .col-md-6.col-sm-6.masonry-item {
+        left: 249px !important;
+        top: 331px !important;
+    }
+}
+
+    .col-md-6.col-sm-6.masonry-item {
+        left: 302px; 
+        top: 405px;
+    }
+
+/* Media query for screens 1024px or smaller */
+@media screen and (max-width: 1030px) {
+    .abouveabout {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+    
+@media screen and (max-width: 1030px) {
+.arc-home-left-content {
+    padding: 10px 13px;
+    margin: 12px 19px;
+}
+}
+/* Hide masonry-item on screen sizes 768px or smaller */
+@media screen and (max-width: 770px) {
+    .masonry-item-none{
+        display: none;
+    }
+    .arc-home-left-content {
+        padding: 40px 30px;
+        margin: 12px 19px;
+    }
+    .custom-margin-top {
+        margin-top: -5rem;
+    }
+}
+@media screen and (max-width: 770px) {
+    .abtOurTeamNavWrp a img {
+        width: 60% !important;
+    }
+}
+@media screen and (max-width: 768px) {
+    .abtOurTeamNavWrp a {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .masonry-item-none-small{
+        display: none;
+    }
+    .arc-home-left-content {
+        margin: 0px 0px;
+    }
+    .inrLnkCert{
+        display: none;
+    }
+    .imagecustom{
+        display: none;
+    }
+}
+@media screen and (max-width: 430px) {
+    .inrAbtPrdSldrCont .hmePrdSldCtrl {
+        top: -7px;
+    }
+    .custom-spacing {
+        padding-top: 0rem !important;
+        padding-bottom: 3rem !important;
+        margin-top: -3rem !important;
+        margin-bottom: 3rem !important;
+    }
+}
+.custom-spacing{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }

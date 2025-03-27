@@ -1391,7 +1391,7 @@ File Name: C:\Downloaded Web Sites\suntouchlaminate.com\sliderImages\Slider Imag
 Content Type: image/webp
 
 Uri: https://suntouchlaminate.com/
-File Name: C:\Downloaded Web Sites\suntouchlaminate.com\index.htm
+File Name: C:\Downloaded Web Sites\suntouchlaminate.com\index.html
 Content Type: text/html
 
 Uri: https://suntouchlaminate.com/about

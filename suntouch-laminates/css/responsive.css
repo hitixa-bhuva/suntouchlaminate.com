@@ -11,7 +11,7 @@
 }
 @media screen and (max-width:1280px){
 	.centerAlign{
-		width:92%;
+		width:92% !important;
 	}
 	.logoBlock {
 		width: 140px;
@@ -435,7 +435,7 @@
 		margin-top: 12px;
 	}
 	.inrAbtPrdSldr li img {
-		width: 140%;
+		width: 140% !important;
 		margin-left: -25%;
 	}
 	.inrAbtPrdPgr {
@@ -1110,13 +1110,13 @@
 		border-width:3px;
 	}
 	.inrAbtPrdSldrWrp{
-		width:100%;
+		width:100% !important;
 	}
 	.inrAbtPrdSldrPgrWrp {
-		position: static;
-		padding: 15px 25px;
-		width: 100%;
-		overflow:hidden;
+		position: static !important;
+		padding: 15px 25px !important;
+		width: 100% !important;
+		overflow:hidden !important;
 	}
 	.inrAbtPrdPgr:last-child,
 	.inrAbtPrdPgr{
@@ -1134,14 +1134,14 @@
 		background: #fff;
 	}
 	.inrAbtPrdCaptionWrp{
-		width:100%;
+		width:100% !important;
 	}
 	.inrAbtPrdSldr li a.defBtn {
 		left: 50%;
 	}
 	.inrAbtPrdCaptionWrp h1 {
-		font-size: 19px;
-		line-height: 26px;
+		font-size: 19px !important;
+		line-height: 26px !important;
 	}
 	.inrAbtPrdCaptionWrp .smlTtle {
 		font-size: 10px;
@@ -1324,6 +1324,26 @@
 	}
 }
 @media screen and (max-width:480px){
+	.tmSecInfWrp .secDesc {
+		width: 100% !important;
+	}
+	.inrAbtInfWrp{
+		width: 100% !important;
+	}
+	.tmSecInfWrp .secDesc p{
+		font-size: 16px !important; 
+	}
+	.tmSecInfWrp h4{
+		font-size: 18px !important; 
+	}
+	.secTitle {
+		font-size: 34px !important;
+		line-height: 45px !important;
+	}
+	
+	.custom-non-display{
+		display: none !important;
+	}
 	.respNavIcn {
 		width: 34px;
 		height: 34px;
